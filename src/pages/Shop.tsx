@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { PRODUCTS } from "../data/content";
-import { ArrowRight, ShoppingCart } from "lucide-react";
+import { ShoppingCart } from "lucide-react";
 import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 
